@@ -9,7 +9,7 @@ https://github.com/Moniia/Trick5-Menu-rotate/assets/155805252/792d8d80-a692-46a4
 <br></br>
 
 
-🔗 [Demo Project](https://moniia.github.io/Trick4-Animation1/)
+🔗 [Demo Project](https://moniia.github.io/Trick5-Menu-rotate/)
 
 👩🏻‍💻 Developed by Mona Aminian
 
